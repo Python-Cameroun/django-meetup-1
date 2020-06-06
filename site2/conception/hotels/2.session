@@ -1,0 +1,10 @@
+window_sizes 1800 913 450 1344 757 104
+cleanlooks_style
+show_stereotypes
+selected attribute_ref 131714 // email
+open
+  class_ref 128002 // Hotel
+  class_ref 128130 // Reservation
+  class_ref 128258 // Gallery
+end
+end

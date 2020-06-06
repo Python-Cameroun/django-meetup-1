@@ -1,0 +1,4 @@
+.env/*
+*.wpr
+*.wpu
+*.pyc
